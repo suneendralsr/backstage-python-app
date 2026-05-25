@@ -4,8 +4,8 @@ metadata:
   name: backstage-lsr
   description: An example of a Backstage application.
   # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
+  annotations:
+    github.com/project-slug: suneendralsr/backstage-python-app
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: service
