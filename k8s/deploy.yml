@@ -18,4 +18,4 @@ spec:
       - name: python-app
         image: suneendral/backstage-python-app:v1
         ports:
-        - containerPort: 5001
+        - containerPort: 5000
